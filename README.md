@@ -82,7 +82,8 @@ Replace yourusername with your GitHub user.
 pip install numpy matplotlib
 git clone https://github.com/yourusername/XDS.git
 cd XDS
-🚀 Quick Start Example
+
+## 🚀 Quick Start Example
 
 This is the minimal working example to run a transit simulation:
 
@@ -139,7 +140,9 @@ Example line profiles
 
 All saved in a folder with the planet’s name.
 
-📘 Documentation
+---
+
+## 📘 Documentation
 
 Full technical documentation (classes, functions, physical assumptions) is available in:
 
@@ -158,7 +161,9 @@ design philosophy,
 
 extension guidelines.
 
-🧪 Extending the Model
+---
+
+## 🧪 Extending the Model
 
 The XDS codebase is intentionally minimal.
 You can extend it by modifying:
@@ -200,6 +205,8 @@ eccentric orbits
 time-varying illumination
 
 If you want, I can help you modularize the next level (RM+XDS combined).
+---
+
 
 📚 Scientific Context & References
 
@@ -218,7 +225,9 @@ In preparation.
 
 (A placeholder; update with your final publication.)
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 
 Mario Sucerquia (IPAG / Université Grenoble Alpes - France)
 Jaime Alevarado Montes (Macquarie University - Australia)
@@ -226,12 +235,16 @@ Jaime Alevarado Montes (Macquarie University - Australia)
 Astrophysicist – Planetary Dynamics, Exomoons & Exorings
 https://malsuar.wixsite.com/mario-sucerquia
 
-🤝 Contributions
+---
+
+## 🤝 Contributions
 
 Pull requests are welcome!
 Feel free to open issues, suggest improvements, or extend the physics.
 
-📜 License
+---
+
+## 📜 License
 
 MIT License — free to use, modify, and distribute.
 See LICENSE file.
